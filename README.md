@@ -8,7 +8,7 @@ apt-get install -y build-essential libtool libcurl4-openssl-dev libudev-dev libn
 ```
 # Instalation
 
-``bash
+```bash
 git clone https://github.com/ileathan/Pfennig-Forker.git && cd Pfennig-Forker
 ```
 # Execution
