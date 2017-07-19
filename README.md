@@ -12,7 +12,7 @@ apt-get install -y build-essential libtool libcurl4-openssl-dev libudev-dev libn
 git clone https://github.com/ileathan/Pfennig-Forker.git && cd Pfennig-Forker
 ```
 # Execution
-
+Make sure you have prefix.cnf in the same directory then.
 ```bash
 bash ./install.sh # Also try bash ./install_old.sh
  ```
